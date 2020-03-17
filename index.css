@@ -1,0 +1,8 @@
+.card-img-top, .card-title, .fa-th, .fa-bars {
+  cursor: pointer;
+}
+
+path {
+  fill: gray;
+  pointer-events: none
+}
